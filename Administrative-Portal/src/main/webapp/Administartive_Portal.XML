@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<academy>
+<name>Administrative-Portal</name>
+<location>123 Main Street, Cityville</location>
+<courses>
+
+<course>
+<title>Mathematics</title>
+<instructor>Professor Smith</instructor>
+<Schedule>Mon, Wed, Fri 10:00 AM - 11:30 AM</Schedule>
+</course>
+<course>
+<title>Science</title>
+<instructor>Dr.Johnson</instructor>
+<Schedule>Tue, Thu,  1:00 AM - 2:30 AM</Schedule>
+</course>
+</courses>
+<Students>
+<Student>
+<name>John Doe</name>
+<grade>10th</grade>
+<Id>101</Id>
+</Student>
+<Student>
+<name>Jane Smith</name>
+<grade>11th</grade>
+<Id>102</Id>
+</Student>
+</Students>
+</academy>
+
+
+
+
+
+
+
